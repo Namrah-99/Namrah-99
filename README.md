@@ -3,7 +3,6 @@
 ## I'm a Student and Developer !!
 
 - 🔭 I'm currently working on MERN Stack
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play badminton
