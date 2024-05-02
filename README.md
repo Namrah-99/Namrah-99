@@ -1,29 +1,35 @@
 # 👋 Hi, I'm Namrah!
 
-- 👩🏻‍💻 Full-Stack Developer | Passionate Learner
+- 👩🏻‍💻 Passionate Learner
 - 🎓 Graduated in Computer Science from COMSATS University, Islamabad
-- 🔭 Currently focusing on MERN stack development
 - 🌱 Learning to master the MERN stack before diving into NEXT JS
-- 🎯 Seeking a challenging role in a dynamic software house
 - 💡 Eager to contribute and grow in a collaborative work environment
+<!--- 
+- 🎯 Seeking a challenging role in a dynamic software house
+- 🔭 Currently focusing on MERN stack development
 - 📚 Passionate about continuous learning and skill development
+- 🎨 Doodling and creative expression
+-->
 
 #### Personal Interests
-- 🎨 Doodling and creative expression
 - 🏓 Playing badminton and table tennis
-- 💻  Watching informative IT and web development content
-- 📖 Reading articles from daily.dev, Medium, and other reputable sources
+- 💻 Watching informative IT and web development content
+- 📖 Reading articles (daily.dev, Medium, and other reputable sources)
+- 🎥 Exploring the world of content creation and video editing to share stories and insights
+
+---
+
+### 🧰 Languages and Tools
+<!--  https://devicon-website.vercel.app/? -->
+<!--
 
 #### Learning and development
 - 📈 Always striving for improvement
 - 🤖 Fascinated by technology's future
 - 🧩 Enjoying a good challenge
 
----
 
-### 🧰 Languages and Tools
-<!--  https://devicon-website.vercel.app/? -->
-<!--<div style="display:block;">
+<div style="display:block;">
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/typescript/original.svg"></img>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/react/original.svg"></img>
