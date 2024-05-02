@@ -19,7 +19,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+
 <!--  https://devicon-website.vercel.app/? -->
 <!--
 
@@ -28,8 +28,8 @@
 - 🤖 Fascinated by technology's future
 - 🧩 Enjoying a good challenge
 
-
-<div style="display:block;">
+-->
+### 🧰 Languages and Tools
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/typescript/original.svg"></img>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/react/original.svg"></img>
@@ -48,12 +48,16 @@
 <img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"></img>
 <img align="left" alt="Vs Code" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/java/original.svg"></img>
-</div>
+
+
 
 <br />
 
-#-->
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+#
+
+<!--
+#
+ Badges from https://github.com/Ileriayo/markdown-badges 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -104,8 +108,9 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
-
 ---
+-->
+
 
 ### 📊 Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
