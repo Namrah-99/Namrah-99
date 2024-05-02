@@ -38,7 +38,6 @@
 <img align="left" alt="MongoDb" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/mongodb/original.svg"></img>
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg"></img>
 <img align="left" alt="Material UI" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/materialui/original.svg"></img>
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/bootstrap/original.svg"></img>
 <img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/nestjs/plain.svg"></img>
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
 <img align="left" alt="AngularJs" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img>
@@ -47,7 +46,9 @@
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/github/original.svg"></img>
 <img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"></img>
 <img align="left" alt="Vs Code" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/java/original.svg"></img>
+<!--
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/bootstrap/original.svg"></img>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/java/original.svg"></img>-->
 
 
 
