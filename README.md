@@ -1,9 +1,3 @@
-<!-- GitHub Star link -->
-<!--<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>-->
-
 # 👋 Hi, I'm Namrah!
 
 - 👩🏻‍💻 Full-Stack Developer | Passionate Learner
@@ -120,7 +114,26 @@
 
 **We appreciate your support!**
 
-**Like this project?**  Give it a star to show your support! -->
+**Like this project?**  Give it a star to show your support! 
+
+
+"🌟 Kindly consider showing your support for this project by giving it a star and sharing it with others!"
+"🙌 Your support means a lot! Please star this project and share it with your network!"
+"⭐ If you find this project valuable, please consider starring it and spreading the word!"
+"🚀 Help this project grow by giving it a star and sharing it with friends!"
+"👏 Show your appreciation for this project by starring it and letting others know about it!"
+"🌠 If you find value in this project, a star and a share would be greatly appreciated!"
+"💖 Your support matters! Please star this project and share it with others who might benefit from it!"
+"✨ If you enjoy using this project, consider giving it a star and sharing it with your community!"
+"👍 Like what you see? Give this project a star and spread the word to help it reach more people!"
+"🌟 Your support fuels this project's growth. Give it a star and share it with others who might benefit from it!"
+
+<!-- GitHub Star link -->
+<!--<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>-->
+-->
 
 
 
