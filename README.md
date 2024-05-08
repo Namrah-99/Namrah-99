@@ -10,13 +10,13 @@
 - 📚 Passionate about continuous learning and skill development
 - 🎨 Doodling and creative expression
 -->
-
+<!--
 #### Personal Interests
 - 🏓 Playing badminton and table tennis
 - 💻 Watching informative IT and web development content
 - 📖 Reading articles (daily.dev, Medium, and other reputable sources)
 - 🎥 Exploring the world of content creation and video editing to share stories and insights
-
+-->
 ---
 
 
